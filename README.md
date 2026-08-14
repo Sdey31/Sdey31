@@ -1,15 +1,15 @@
-<h1><b>💫 About me:</b></h1>
+<h1><b>💫 About me:</b></h1><br>
 
-💻 I’m currently working on innovative projects
-🤝 I’m looking to collaborate on tech projects & hackathon
-🧑‍💻 I’m looking for help with DSA & problem solving
-📚 I’m currently learning DSA & Java ☕
-⚡ Fun fact: I break problems, not code
+💻 I’m currently working on innovative projects<br>
+🤝 I’m looking to collaborate on tech projects & hackathon<br>
+🧑‍💻 I’m looking for help with DSA & problem solving<br>
+📚 I’m currently learning DSA & Java ☕<br>
+⚡ Fun fact: I break problems, not code<br>
 
-<h1><b>📎 Socials: </b></h1>
+<h1><b>📎 Socials: </b></h1><br>
 
-instagram: https://www.instagram.com/itz__subham31?igsh=encxMG51a2dlZTU2
-Linkedin: https://www.linkedin.com/in/subham-dey-1a16ba308?utm_source=share_via&utm_content=profile&utm_medium=member_android
+instagram: https://www.instagram.com/itz__subham31?igsh=encxMG51a2dlZTU2<br>
+Linkedin: https://www.linkedin.com/in/subham-dey-1a16ba308?utm_source=share_via&utm_content=profile&utm_medium=member_android<br>
 
 
 # 💻 Tech Stack:
